@@ -4,7 +4,7 @@ var ground, invisibleGround, groundImage;
 var cloud, cloudsGroup, cloudImage;
 var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obstacle6;
 
-var score;
+
 
 
 function preload(){
@@ -42,7 +42,7 @@ function setup() {
   
   console.log("Hola" + 5);
   
-  score = 0;
+
 }
 
 function draw() {
